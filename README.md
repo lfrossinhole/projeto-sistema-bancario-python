@@ -85,3 +85,20 @@ para vincular um usuário a uma conta, filtre a lista de usuários buscando o n�
 
 ## Tecnologias Utilizadas:
 - Estruturas de Dados da Linguagem Python 🐍
+
+# Desafio de Projeto 3: Modelando o Sistema Bancário em POO com Python
+
+## Objetivo:
+- Iniciar a modelagem do sistema bancário em POO.
+- Adicionar classes para cliente e as operações bancários: depósito e saque.
+
+## Desafio:
+- Atualizar a implementação do sistema bancário, para armazenar os dados de clientes e contas bancárias em objetos ao invés de dicionários.
+- O código deve seguir o modelo de classes UML a seguir:
+<img src=./img/desafio_3_diagrama_uml.png>
+
+## Desafio Extra:
+- Após concluir a modelagem das classes e a criação dos métodos, atualizar os métodos que tratam as opções do menu, para funcionarem com as classes modeladas.
+
+## Tecnologias Utilizadas:
+- Programação Orientada a Objetos da Linguagem Python 🐍
